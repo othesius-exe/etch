@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "**Etch A Sketch**",
+  "main": "etch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othesius-exe/etch.git"
+  },
+  "keywords": [
+    "etch"
+  ],
+  "author": "Caleb",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/othesius-exe/etch/issues"
+  },
+  "homepage": "https://github.com/othesius-exe/etch#readme"
+}
